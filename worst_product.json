@@ -1,0 +1,56 @@
+{
+  "status": "200 - success",
+  "total": 10,
+  "data": [
+    {
+      "year_id": "2017",
+      "product_name": "Acco Economy Flexible Poly Round Ring Binder",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2017",
+      "product_name": "Contico 72\"H Heavy-Duty Storage System\"",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2017",
+      "product_name": "Hon Metal Bookcases, Black",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2016",
+      "product_name": "Ibico Recycled Grain-Textured Covers",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2016",
+      "product_name": "Xerox 1935",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2016",
+      "product_name": "Safco Industrial Wire Shelving",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2015",
+      "product_name": "Bush Advantage Collection Round Conference Table",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2018",
+      "product_name": "Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2016",
+      "product_name": "O'Sullivan Living Dimensions 5-Shelf Bookcases",
+      "total_sold": "1"
+    },
+    {
+      "year_id": "2015",
+      "product_name": "Linden 10\" Round Wall Clock, Black\"",
+      "total_sold": "1"
+    }
+  ]
+}
